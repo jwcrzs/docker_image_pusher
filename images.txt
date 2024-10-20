@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-zilliz/attu:v2.3.9
+zilliz/attu:v2.4.9
