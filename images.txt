@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-milvusdb/milvus:v2.4.13-hotfix
+zilliz/attu:v2.3.9
